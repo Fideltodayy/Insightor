@@ -12,7 +12,8 @@
 8. [Usage Guide](#usage-guide)
 9. [Future Enhancements](#future-enhancements)
 10. [Contributing](#contributing)
-11. [License](#license)
+11. [License](#licens
+e)
 
 ## Introduction
 
